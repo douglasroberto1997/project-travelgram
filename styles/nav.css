@@ -9,7 +9,7 @@ nav{
 nav ul {
     list-style: none;
     display: flex;
-    align-items: center;
+     align-items: center;
     gap: 24px;
 
     padding-block: 8px;
